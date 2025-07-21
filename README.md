@@ -6,8 +6,8 @@ Excited to connect and share the journey as I explore the tech world and beyond!
 
 ---
 
-- 🔭 Enthusiastic about Web Application Development
-- 🌱 Currently exploring Next.js and DevOps
+- 🔭 Enthusiastic about Web Application Development and Machine Learning
+- 🌱 Currently exploring Next.js, DevOps and Machine Learning Algorithms
 - 👯 Eager to collaborate on web projects and share knowledge
 - 🤝 You can assist me with ML Models
 
@@ -35,7 +35,7 @@ Excited to connect and share the journey as I explore the tech world and beyond!
 
 <h3 align="left">Connect with me...</h3> <p align="left">
 <a href="https://www.linkedin.com/in/vinay-vk-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hgjajoo" height="30" width="40" /></a>
-<a href="https://github.com/vinay-vk-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hgjajoo" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Vinay_Kumar_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hgjajoo" height="30" width="40" /></a>
 
 
 ---
