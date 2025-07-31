@@ -1,8 +1,7 @@
 # Hello there! 👋 I'm Vinay Kumar!
 
-I'm an ambitious 20 year-old currently pursuing a Bachelor's degree in Computer Science, with a passion for problem-solving through code.
-When I'm not coding, you'll find me jamming to music or catching up on movies. I'm also a big sports fan, playing Cricket, Football, Basketball, and Badminton to keep things lively.
-Excited to connect and share the journey as I explore the tech world and beyond!
+Hi! I'm a 21-year-old Computer Science undergraduate with a strong passion for solving real-world problems through code. I enjoy turning ideas into impactful projects, continuously learning new technologies, and pushing the boundaries of what's possible in the tech world.
+I'm always eager to connect, collaborate, and grow—whether it's through tech discussions, teamwork, or shared interests. Let’s connect and build something meaningful together!
 
 ---
 
